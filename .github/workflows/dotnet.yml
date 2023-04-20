@@ -24,4 +24,4 @@ jobs:
       run: dotnet restore
       working-directory: ./ExamProject
     - name: Build
-      run: dotnet build ./ExamProject/ExamProject.sln
+      run: dotnet build ./ExamProject.sln
